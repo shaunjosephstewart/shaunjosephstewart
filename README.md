@@ -54,10 +54,10 @@ Over the years, I have had the privilege of contributing to the visions and need
 - **Email:** [shaunjosephstewart@gmail.com](mailto:shaunjosephstewart@gmail.com)
 
 ## 🌐 PORTFOLIOS
-- **Portfolio:** [shaunjosephstewart](http://shaunjosephstewart.com)
+- **Portfolio:** [Shaun Joseph Stewart](http://shaunjosephstewart.com)
 - **LinkedIn:** [Shaun Joseph Stewart](https://www.linkedin.com/in/shaunjosephstewart/)
 - **IMDB:** [Shaun Joseph Stewart](https://www.imdb.com/name/nm10025509/))
-- **GitHub:** [shaunjosephstewart](https://github.com/shaunjosephstewart)
+- **GitHub:** [Shaun Joseph Stewart](https://github.com/shaunjosephstewart)
 
 
 <!--
