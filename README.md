@@ -17,7 +17,7 @@ Over the years, I have had the privilege of contributing to the visions and need
 - **Certificate Number:** GWXJK8BQT6E8 – [View Credential](https://coursera.org/share/426f338076e2abc55ffb99c7b2fd0a7a)
 
 ### Computer Science for Business Professionals, Harvard University CS50
-- **Certificate Number:** 954ec01c-cf18-486e-97a2-da8fba59bc1d – [View Credential]([https://learn.microsoft.com/en-us/users/shaunjosephstewart-8076/credentials/2838c3e084e12475](https://certificates.cs50.io/954ec01c-cf18-486e-97a2-da8fba59bc1d.pdf?size=letter))
+- **Certificate Number:** 954ec01c-cf18-486e-97a2-da8fba59bc1d – [View Credential]([https://coursera.org/share/426f338076e2abc55ffb99c7b2fd0a7a](https://certificates.cs50.io/954ec01c-cf18-486e-97a2-da8fba59bc1d))
 
 ### Microsoft 365 Fundamentals (MS-900), Microsoft
 - **Certificate Number:** 2838C3E084E12475 – [View Credential](https://learn.microsoft.com/en-us/users/shaunjosephstewart-8076/credentials/2838c3e084e12475)
