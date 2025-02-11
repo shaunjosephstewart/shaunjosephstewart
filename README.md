@@ -10,13 +10,16 @@ Over the years, I have had the privilege of contributing to the visions and need
 
 ## 📚 Certifications
 
-### Project Management Professional (PMP)
+### Project Management Professional (PMP), Project Management Institute (PMI)
 - **Certificate Number:** 3991473 – [View Credential](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)
 
-### Google Project Management Professional Certificate
+### Google Project Management Professional Certificate, Google / Coursera
 - **Certificate Number:** GWXJK8BQT6E8 – [View Credential](https://coursera.org/share/426f338076e2abc55ffb99c7b2fd0a7a)
 
-### Microsoft 365 Fundamentals (MS-900)
+### Computer Science for Business Professionals, Harvard University CS50
+- **Certificate Number:** 954ec01c-cf18-486e-97a2-da8fba59bc1d – [View Credential]([https://learn.microsoft.com/en-us/users/shaunjosephstewart-8076/credentials/2838c3e084e12475](https://certificates.cs50.io/954ec01c-cf18-486e-97a2-da8fba59bc1d.pdf?size=letter))
+
+### Microsoft 365 Fundamentals (MS-900), Microsoft
 - **Certificate Number:** 2838C3E084E12475 – [View Credential](https://learn.microsoft.com/en-us/users/shaunjosephstewart-8076/credentials/2838c3e084e12475)
 
 
