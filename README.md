@@ -1,6 +1,6 @@
 # Shaun Joseph Stewart – Portfolio
 
-As a seasoned Certified Project Management Professional (PMP), Producer, and Artistic/Creative Director, my portfolio spans a diverse range of projects, including documentaries, online fashion content, e-commerce, and experiential campaigns.
+As a seasoned Certified Project Management Professional (PMP) and Information Technology Specialist, my portfolio spans a diverse range of projects, including documentary films, online fashion content, e-commerce platforms, and experiential campaigns.
 
 Over the years, I have had the privilege of contributing to the visions and needs of HBO, Sotheby’s, Google, Universal Music Group, Condé Nast, Yoox Net-A-Porter Group, Paper Magazine, the Hamptons International Film Festival, and several remarkable artists.
 
