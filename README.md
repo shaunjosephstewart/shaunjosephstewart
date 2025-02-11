@@ -43,15 +43,38 @@ Over the years, I have had the privilege of contributing to the visions and need
 - Creative/Artistic Direction
 - Information Technology
 
+
+
+
+
 ## 💼 PROJECTS
 
+### FILM + VIDEO PROJECTS
 - [Project 1](#)
 - [Project 2](#)
 - [Add more projects here]
 
+### WEB PROJECTS
+- [Project 1](#)
+- [Project 2](#)
+- [Add more projects here]
+
+  ### INFORMATION TECHNOLOGY PROJECTS
+- [Project 1](#)
+- [Project 2](#)
+- [Add more projects here]
+
+
+
+
+
 ## 📫 CONTACT
 
 - **Email:** [shaunjosephstewart@gmail.com](mailto:shaunjosephstewart@gmail.com)
+
+
+
+
 
 ## 🌐 PORTFOLIOS
 - **Portfolio:** [Shaun Joseph Stewart](http://shaunjosephstewart.com)
