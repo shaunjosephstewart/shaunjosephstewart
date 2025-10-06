@@ -70,10 +70,10 @@ Over the years, I have had the privilege of contributing to the visions and need
 
 
 ## 🌐 PORTFOLIOS
-- **Portfolio:** [Shaun Joseph Stewart](http://shaunjosephstewart.com)
-- **LinkedIn:** [Shaun Joseph Stewart](https://www.linkedin.com/in/shaunjosephstewart/)
-- **IMDB:** [Shaun Joseph Stewart](https://www.imdb.com/name/nm10025509/)
-- **GitHub:** [Shaun Joseph Stewart](https://github.com/shaunjosephstewart)
+- [Portfolio + Reel](http://shaunjosephstewart.com)
+- [LinkedIn](https://www.linkedin.com/in/shaunjosephstewart/)
+- [IMDB](https://www.imdb.com/name/nm10025509/)
+- [GitHub](https://github.com/shaunjosephstewart)
 
 
 <!--
