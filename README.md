@@ -10,17 +10,18 @@ Over the years, I have had the privilege of contributing to the visions and need
 
 ## 📜 Certifications
 
-### Project Management Professional (PMP), Project Management Institute (PMI)
-- **Certificate Number:** 3991473 – [View Credential](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)
+### Project Management Professional (PMP), Project Management Institute (PMI) – [View Credential](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)
 
-### Google Project Management Professional Certificate, Google / Coursera
-- **Certificate Number:** GWXJK8BQT6E8 – [View Credential](https://coursera.org/share/426f338076e2abc55ffb99c7b2fd0a7a)
+### CompTIA A+ – [View Credential](https://www.credly.com/badges/cc51fc4b-cf2d-4d7b-8b79-a4f26e17b57f/linked_in_profile)
 
-### Computer Science for Business Professionals, Harvard University CS50
-- **Certificate Number:** 954ec01c-cf18-486e-97a2-da8fba59bc1d – [View Credential](https://certificates.cs50.io/954ec01c-cf18-486e-97a2-da8fba59bc1d)
+### AWS Certified Cloud Practitioner, Amazon Web Services (AWS) – [View Credential](https://www.credly.com/badges/160256c3-c7ac-4ad5-accf-6de5ae7cf4d2/linked_in_profile)
 
-### Microsoft 365 Fundamentals (MS-900), Microsoft
-- **Certificate Number:** 2838C3E084E12475 – [View Credential](https://learn.microsoft.com/en-us/users/shaunjosephstewart-8076/credentials/2838c3e084e12475)
+### Linux Essentials, Linux Professional Institute (LPI) – [View Credential](https://www.credly.com/badges/cad1596b-6f50-4b72-b575-f90bcb03b1db/linked_in_profile)
+
+### Microsoft 365 Fundamentals (MS-900), Microsoft – [View Credential](https://learn.microsoft.com/en-us/users/shaunjosephstewart-8076/credentials/2838c3e084e12475)
+
+### Computer Science for Business Professionals, Harvard University CS50 – [View Credential](https://certificates.cs50.io/954ec01c-cf18-486e-97a2-da8fba59bc1d)
+
 
 
 
