@@ -28,15 +28,6 @@ Seattle Central College, 2023
 
 
 
-## 🛠️ SKILLS
-
-- Project Management
-- Production
-- Creative/Artistic Direction
-- Information Technology
-
-
-
 ## 💼 PROJECTS
 
 ### IT  PROJECTS
@@ -58,6 +49,14 @@ Seattle Central College, 2023
 
 
 
+## 🛠️ SKILLS
+
+- Project Management
+- Production
+- Creative/Artistic Direction
+- Information Technology
+- 
+
 ## 📫 CONTACT
 
 - **Email:** [shaunjosephstewart@gmail.com](mailto:shaunjosephstewart@gmail.com)
@@ -67,6 +66,7 @@ Seattle Central College, 2023
 
 
 ## 🌐 PORTFOLIOS
+- [Portfolio + Reel](http://shaunjosephstewart.com)
 - [LinkedIn](https://www.linkedin.com/in/shaunjosephstewart/)
 - [IMDB](https://www.imdb.com/name/nm10025509/)
 - [GitHub](https://github.com/shaunjosephstewart)
