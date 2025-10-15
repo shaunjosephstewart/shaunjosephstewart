@@ -38,6 +38,11 @@ Seattle Central College, 2023
 
 ## 💼 PROJECTS
 
+### IT  PROJECTS
+- [Project 1](#)
+- [Project 2](#)
+- [Add more projects here]
+
 ### FILM + VIDEO PROJECTS
 #### [Portfolio + Reel](http://shaunjosephstewart.com)
 - [Sotheby's](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQuuY657by64SuF-EmZtXHkD&pp=gAQB)
@@ -49,19 +54,6 @@ Seattle Central College, 2023
 - [Paper Magazine](https://www.youtube.com/watch?v=T9DZL0B12Yk&list=PL8-y-WpfGSQv5nHmSHdQqwFYW_r5q6ZYN&pp=gAQB)
 - [The Hamptons International Film Festival](https://www.youtube.com/watch?v=wyTTdzwJ9Ek&list=PL8-y-WpfGSQta-8ULyW_0xAN9DoErB7-i&pp=gAQB)
 - [Sizzle Reels + Pitches](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQsY7yVKzVfiCBKJRIhswc7H&pp=gAQB)
-
-  
-### WEB PROJECTS
-- [Project 1](#)
-- [Project 2](#)
-- [Add more projects here]
-
-  ### IT  PROJECTS
-- [Project 1](#)
-- [Project 2](#)
-- [Add more projects here]
-
-
 
 
 
