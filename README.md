@@ -1,6 +1,6 @@
 # Shaun Joseph Stewart – Portfolio
 
-As a seasoned Certified Project Management Professional (PMP) and Information Technology Specialist, my portfolio spans a diverse range of projects, including documentary films, online fashion content, e-commerce platforms, and experiential campaigns.
+Customer-first IT specialist and Project Management Professional with a service mindset that started at Apple, grew through coordinating creative work as a freelance associate producer and video editor, and now guides how I lead and deliver in IT. At Apple I learned patient, plain-language support and front-of-house training. As a producer and editor, I refined planning, handoffs, and stakeholder alignment under real deadlines. As an IT specialist, I combine that foundation with calm troubleshooting, clear status updates, and simple SOPs that make fixes stick. I keep learning through labs, coursework, and real projects, supported by current certifications (PMP, CompTIA, ITIL, AWS, Microsoft) and a near complete B.S. in Information Technology at Western Governors University.
 
 Over the years, I have had the privilege of contributing to the visions and needs of HBO, Sotheby’s, Google, Universal Music Group, Condé Nast, Yoox Net-A-Porter Group, Paper Magazine, the Hamptons International Film Festival, and several remarkable artists.
 
@@ -45,6 +45,7 @@ Seattle Central College, 2023
 - [Vogue / Style.com](https://www.youtube.com/watch?v=mSJxWpFhESc&list=PL8-y-WpfGSQuKub2sWjAWT-ppyo-pDF0z&pp=gAQB0gcJCaIEOCosWNin)
 - [National Geographic](https://www.youtube.com/watch?v=ppHBvpTHqs0&list=PL8-y-WpfGSQttqsbRhrcMD1iAU4x3uYYz&pp=gAQB0gcJCaIEOCosWNin)
 - [HBO](https://www.youtube.com/watch?v=dFTJhFiY6iU&list=PL8-y-WpfGSQuVSNv4FS1icnheOWNRqKkn&pp=gAQB0gcJCaIEOCosWNin)
+- Yoox/Net-A-Porter Group(https://www.youtube.com/watch?v=HmCbSlcGd4E&list=PL8-y-WpfGSQsgqh-Rz8hsbg33HFoUQd0Z&pp=gAQB)
 - [Paper Magazine](https://www.youtube.com/watch?v=T9DZL0B12Yk&list=PL8-y-WpfGSQv5nHmSHdQqwFYW_r5q6ZYN&pp=gAQB)
 - [The Hamptons International Film Festival](https://www.youtube.com/watch?v=wyTTdzwJ9Ek&list=PL8-y-WpfGSQta-8ULyW_0xAN9DoErB7-i&pp=gAQB)
 - [Sizzle Reels + Pitches](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQsY7yVKzVfiCBKJRIhswc7H&pp=gAQB)
