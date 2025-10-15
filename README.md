@@ -36,8 +36,7 @@ Seattle Central College, 2023
 - [Add more projects here]
 
 ### 🎞  FILM + VIDEO PROJECTS
-- [Portfolio + Reel](http://shaunjosephstewart.com)
-  
+##### [Portfolio + Reel](http://shaunjosephstewart.com)
 - [Sotheby's](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQuuY657by64SuF-EmZtXHkD&pp=gAQB)
 - [W Magazine](https://www.youtube.com/watch?v=qzefjYxAKCE&list=PL8-y-WpfGSQsETpU9ryJoBWL7EaDk9Vtn&pp=gAQB)
 - [Vogue / Style.com](https://www.youtube.com/watch?v=mSJxWpFhESc&list=PL8-y-WpfGSQuKub2sWjAWT-ppyo-pDF0z&pp=gAQB0gcJCaIEOCosWNin)
