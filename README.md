@@ -6,8 +6,6 @@ Over the years, I have had the privilege of contributing to the visions and need
 
 
 
-
-
 ## 📜 Certifications
 
 -  [Project Management Professional (PMP)](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)
@@ -22,10 +20,10 @@ Over the years, I have had the privilege of contributing to the visions and need
 ## 📚 EDUCATION
 
 ### Bachelor of Science in Information Technology (BSIT)
-- **Western Governors University,** In Progress: Senior Year, Expected Graduation in December 2025
+**Western Governors University,** In Progress: Senior Year, Expected Graduation in December 2025
 
 ### Associate of Arts (AA)
-- **Seattle Central College,** 2023
+**Seattle Central College,** 2023
 
 
 
@@ -35,8 +33,6 @@ Over the years, I have had the privilege of contributing to the visions and need
 - Production
 - Creative/Artistic Direction
 - Information Technology
-
-
 
 
 
@@ -52,7 +48,7 @@ Over the years, I have had the privilege of contributing to the visions and need
 - [Project 2](#)
 - [Add more projects here]
 
-  ### INFORMATION TECHNOLOGY PROJECTS
+  ### IT  PROJECTS
 - [Project 1](#)
 - [Project 2](#)
 - [Add more projects here]
