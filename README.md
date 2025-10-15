@@ -39,10 +39,17 @@ Seattle Central College, 2023
 ## 💼 PROJECTS
 
 ### FILM + VIDEO PROJECTS
-- [Project 1](#)
-- [Project 2](#)
-- [Add more projects here]
+#### [Portfolio + Reel](http://shaunjosephstewart.com)
+- [Sotheby's](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQuuY657by64SuF-EmZtXHkD&pp=gAQB)
+- [W Magazine](https://www.youtube.com/watch?v=qzefjYxAKCE&list=PL8-y-WpfGSQsETpU9ryJoBWL7EaDk9Vtn&pp=gAQB)
+- [Vogue / Style.com](https://www.youtube.com/watch?v=mSJxWpFhESc&list=PL8-y-WpfGSQuKub2sWjAWT-ppyo-pDF0z&pp=gAQB0gcJCaIEOCosWNin)
+- [National Geographic](https://www.youtube.com/watch?v=ppHBvpTHqs0&list=PL8-y-WpfGSQttqsbRhrcMD1iAU4x3uYYz&pp=gAQB0gcJCaIEOCosWNin)
+- [HBO](https://www.youtube.com/watch?v=dFTJhFiY6iU&list=PL8-y-WpfGSQuVSNv4FS1icnheOWNRqKkn&pp=gAQB0gcJCaIEOCosWNin)
+- [Paper Magazine](https://www.youtube.com/watch?v=T9DZL0B12Yk&list=PL8-y-WpfGSQv5nHmSHdQqwFYW_r5q6ZYN&pp=gAQB)
+- [The Hamptons International Film Festival](https://www.youtube.com/watch?v=wyTTdzwJ9Ek&list=PL8-y-WpfGSQta-8ULyW_0xAN9DoErB7-i&pp=gAQB)
+- [Sizzle Reels + Pitches](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQsY7yVKzVfiCBKJRIhswc7H&pp=gAQB)
 
+  
 ### WEB PROJECTS
 - [Project 1](#)
 - [Project 2](#)
@@ -66,7 +73,6 @@ Seattle Central College, 2023
 
 
 ## 🌐 PORTFOLIOS
-- [Portfolio + Reel](http://shaunjosephstewart.com)
 - [LinkedIn](https://www.linkedin.com/in/shaunjosephstewart/)
 - [IMDB](https://www.imdb.com/name/nm10025509/)
 - [GitHub](https://github.com/shaunjosephstewart)
