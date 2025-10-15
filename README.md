@@ -30,7 +30,7 @@ Seattle Central College, 2023
 
 ## 💼 PROJECTS
 
-### IT  PROJECTS
+### 👨‍💻 Information Technology Projects
 - [Project 1](#)
 - [Project 2](#)
 - [Add more projects here]
