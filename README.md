@@ -19,10 +19,10 @@ Over the years, I have had the privilege of contributing to the visions and need
 
 ## 📚 EDUCATION
 
-Bachelor of Science in Information Technology (BSIT)
+#### Bachelor of Science in Information Technology (BSIT)
 Western Governors University, In Progress: Senior Year, Expected Graduation in December 2025
 
-Associate of Arts (AA)
+#### Associate of Arts (AA)
 Seattle Central College, 2023
 
 
