@@ -1,4 +1,4 @@
-# Shaun Joseph Stewart – Portfolio
+# [Shaun Joseph Stewart – Project Manager(PMP) | IT Specialist](http://www.linkedin.com/in/shaunjosephstewart)
 
 Customer-first IT specialist and Project Management Professional with a service mindset that started at Apple, grew through coordinating creative work as a freelance associate producer and video editor, and now guides how I lead and deliver in IT. At Apple I learned patient, plain-language support and front-of-house training. As a producer and editor, I refined planning, handoffs, and stakeholder alignment under real deadlines. As an IT specialist, I combine that foundation with calm troubleshooting, clear status updates, and simple SOPs that make fixes stick. I keep learning through labs, coursework, and real projects, supported by current certifications (PMP, CompTIA, ITIL, AWS, Microsoft) and a near complete B.S. in Information Technology at Western Governors University.
 
