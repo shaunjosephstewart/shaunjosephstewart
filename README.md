@@ -54,14 +54,14 @@ Seattle Central College, 2023
 - Project Management
 - Production
 - Creative/Artistic Direction
+- Computer Science
 - Information Technology
-- 
+
+
 
 ## 📫 CONTACT
 
-- **Email:** [shaunjosephstewart@gmail.com](mailto:shaunjosephstewart@gmail.com)
-
-
+- [LinkedIn](https://www.linkedin.com/in/shaunjosephstewart/)
 
 
 
