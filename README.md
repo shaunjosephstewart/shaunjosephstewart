@@ -1,9 +1,13 @@
 # Shaun Joseph Stewart 
 ### [Project Management Professional (PMP) | Producer | IT Specialist](http://www.linkedin.com/in/shaunjosephstewart)
 
-Customer-first IT specialist and Project Management Professional with a service mindset that started at Apple, grew through coordinating creative work as a freelance associate producer and video editor, and now guides how I lead and deliver in IT. At Apple I learned patient, plain-language support and front-of-house training. As a producer and editor, I refined planning, handoffs, and stakeholder alignment under real deadlines. As an IT specialist, I combine that foundation with calm troubleshooting, clear status updates, and simple SOPs that make fixes stick. I keep learning through labs, coursework, and real projects, supported by current certifications (PMP, CompTIA, ITIL, AWS, Microsoft) and a near complete B.S. in Information Technology at Western Governors University.
+Customer-centered IT specialist, producer, and PMP with Apple-trained customer care, production-tested project discipline, and hands-on experience supporting endpoints, accounts, and networks, plus a creative portfolio spanning documentaries, online fashion content, e-commerce, and experiential campaigns. 
 
-Over the years, I have had the privilege of contributing to the visions and needs of HBO, Sotheby’s, Google, Universal Music Group, Condé Nast, Yoox Net-A-Porter Group, Paper Magazine, the Hamptons International Film Festival, and several remarkable artists.
+I’ve contributed to the creative visions and digital operations of HBO, Sotheby’s, Google, Universal Music Group, Condé Nast, Yoox Net-A-Porter Group, Paper Magazine, the Hamptons International Film Festival, and several artists by blending creative strategy, practical IT know-how, and disciplined delivery on fast-moving projects. 
+
+I pair patient front-of-house support with solid planning, clean handoffs, and stakeholder alignment; in technical roles I’m known for accurate triage, calm troubleshooting, and plain-language updates that keep users and leaders aligned. I document fixes as clear step-by-step procedures to prevent repeat issues and reduce the average time it takes to resolve problems.
+
+I’m committed to growing and continuously learning through labs, coursework, and real projects; current certifications include PMP, CompTIA A+, ITIL 4 Foundation, AWS Cloud Practitioner, Microsoft 365 Fundamentals, and LPI Linux Essentials.
 
 
 
