@@ -63,7 +63,7 @@ Seattle Central College, 2023
 
 
 
-## 📫 CONTACT
+## ⚡ RESUMÉ / CV
 
 - [LinkedIn](https://www.linkedin.com/in/shaunjosephstewart/)
 
@@ -72,10 +72,8 @@ Seattle Central College, 2023
 ## 🌐 PORTFOLIOS
 - [Website](http://shaunjosephstewart.com)
 - [Film + Video Reel](https://www.youtube.com/watch?v=k9BX95vbzd0)
-- [Film + Video Portfoli0](https://www.youtube.com/@shaunjosephstewart/playlists)
-- [LinkedIn](https://www.linkedin.com/in/shaunjosephstewart/)
+- [Film + Video Portfolio](https://www.youtube.com/@shaunjosephstewart/playlists)
 - [IMDB](https://www.imdb.com/name/nm10025509/)
-- [GitHub](https://github.com/shaunjosephstewart)
 
 
 <!--
