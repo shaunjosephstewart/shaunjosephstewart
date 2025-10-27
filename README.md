@@ -20,6 +20,8 @@ I’m committed to growing and continuously learning through labs, coursework, a
 -  [Microsoft 365 Fundamentals (MS-900)](https://learn.microsoft.com/en-us/users/shaunjosephstewart-8076/credentials/2838c3e084e12475)
 -  [Computer Science for Business Professionals, Harvard University CS50](https://certificates.cs50.io/954ec01c-cf18-486e-97a2-da8fba59bc1d)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
 ## 📚 EDUCATION
