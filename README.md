@@ -1,5 +1,5 @@
 # Shaun Joseph Stewart 
-### [Project Management Professional (PMP) | Producer | IT Specialist](http://www.linkedin.com/in/shaunjosephstewart)
+### [Project Manager (PMP) | Producer | IT Professional](http://www.linkedin.com/in/shaunjosephstewart)
 
 Customer-centered IT specialist, producer, and PMP with Apple-trained customer care, production-tested project discipline, and hands-on experience supporting endpoints, accounts, and networks, plus a creative portfolio spanning documentaries, online fashion content, e-commerce, and experiential campaigns. 
 
