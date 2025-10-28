@@ -10,26 +10,6 @@ I pair patient front-of-house support with solid planning, clean handoffs, and s
 I’m committed to growing and continuously learning through labs, coursework, and real projects; current certifications include PMP, CompTIA A+, ITIL 4 Foundation, AWS Cloud Practitioner, Microsoft 365 Fundamentals, and LPI Linux Essentials.
 
 
-##
-## 💼 PROJECTS
-
-### 👨‍💻 Information Technology Projects
-- [Project 1](#)
-- [Project 2](#)
-- [Add more projects here]
-
-### 🎞  Film + Video Projects
-- [Portfolio + Reel](http://shaunjosephstewart.com)
-- [HBO](https://www.youtube.com/watch?v=dFTJhFiY6iU&list=PL8-y-WpfGSQuVSNv4FS1icnheOWNRqKkn&pp=gAQB0gcJCaIEOCosWNin)
-- [National Geographic](https://www.youtube.com/watch?v=ppHBvpTHqs0&list=PL8-y-WpfGSQttqsbRhrcMD1iAU4x3uYYz&pp=gAQB0gcJCaIEOCosWNin)
-- [Sotheby's](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQuuY657by64SuF-EmZtXHkD&pp=gAQB)
-- [W Magazine](https://www.youtube.com/watch?v=qzefjYxAKCE&list=PL8-y-WpfGSQsETpU9ryJoBWL7EaDk9Vtn&pp=gAQB)
-- [Vogue / Style.com](https://www.youtube.com/watch?v=mSJxWpFhESc&list=PL8-y-WpfGSQuKub2sWjAWT-ppyo-pDF0z&pp=gAQB0gcJCaIEOCosWNin)
-- [Paper Magazine](https://www.youtube.com/watch?v=T9DZL0B12Yk&list=PL8-y-WpfGSQv5nHmSHdQqwFYW_r5q6ZYN&pp=gAQB)
-- [Yoox/Net-A-Porter Group](https://www.youtube.com/watch?v=HmCbSlcGd4E&list=PL8-y-WpfGSQsgqh-Rz8hsbg33HFoUQd0Z&pp=gAQB)
-- [The Hamptons International Film Festival](https://www.youtube.com/watch?v=wyTTdzwJ9Ek&list=PL8-y-WpfGSQta-8ULyW_0xAN9DoErB7-i&pp=gAQB)
-- [Sizzle Reels + Pitches](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQsY7yVKzVfiCBKJRIhswc7H&pp=gAQB)
-
 
 
 ##
@@ -58,6 +38,27 @@ Seattle Central College, 2024
 
 -  [Atlassian : Jira Service Management Fundamentals](https://university.atlassian.com/student/award/m48Mrzu7ZXr4Mt93WuzJwwXN)
 -  [Zendesk : Foundational Support](https://www.credly.com/badges/ffc2aa0c-4a03-48f7-a853-e263ef754b78)
+
+
+##
+## 💼 PROJECTS
+
+### 👨‍💻 Information Technology Projects
+- [Project 1](#)
+- [Project 2](#)
+- [Add more projects here]
+
+### 🎞  Film + Video Projects
+- [Portfolio + Reel](http://shaunjosephstewart.com)
+- [HBO](https://www.youtube.com/watch?v=dFTJhFiY6iU&list=PL8-y-WpfGSQuVSNv4FS1icnheOWNRqKkn&pp=gAQB0gcJCaIEOCosWNin)
+- [National Geographic](https://www.youtube.com/watch?v=ppHBvpTHqs0&list=PL8-y-WpfGSQttqsbRhrcMD1iAU4x3uYYz&pp=gAQB0gcJCaIEOCosWNin)
+- [Sotheby's](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQuuY657by64SuF-EmZtXHkD&pp=gAQB)
+- [W Magazine](https://www.youtube.com/watch?v=qzefjYxAKCE&list=PL8-y-WpfGSQsETpU9ryJoBWL7EaDk9Vtn&pp=gAQB)
+- [Vogue / Style.com](https://www.youtube.com/watch?v=mSJxWpFhESc&list=PL8-y-WpfGSQuKub2sWjAWT-ppyo-pDF0z&pp=gAQB0gcJCaIEOCosWNin)
+- [Paper Magazine](https://www.youtube.com/watch?v=T9DZL0B12Yk&list=PL8-y-WpfGSQv5nHmSHdQqwFYW_r5q6ZYN&pp=gAQB)
+- [Yoox/Net-A-Porter Group](https://www.youtube.com/watch?v=HmCbSlcGd4E&list=PL8-y-WpfGSQsgqh-Rz8hsbg33HFoUQd0Z&pp=gAQB)
+- [The Hamptons International Film Festival](https://www.youtube.com/watch?v=wyTTdzwJ9Ek&list=PL8-y-WpfGSQta-8ULyW_0xAN9DoErB7-i&pp=gAQB)
+- [Sizzle Reels + Pitches](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQsY7yVKzVfiCBKJRIhswc7H&pp=gAQB)
 
 
 
