@@ -11,6 +11,16 @@ I’m committed to growing and continuously learning through labs, coursework, a
 
 
 
+## 📚 EDUCATION
+
+#### Bachelor of Science in Information Technology (BSIT)
+Western Governors University, In Progress: Senior Year, Expected Graduation in December 2025
+
+#### Associate of Arts (AA)
+Seattle Central College, 2023
+
+
+
 ## 📜 Certifications
 
 -  [Project Management Professional (PMP)](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)
@@ -22,20 +32,10 @@ I’m committed to growing and continuously learning through labs, coursework, a
 
 
 
-## 📜 BADGES
+## ⭐ BADGES
 
 -  [Atlassian : Jira Service Management Fundamentals Badge ](https://university.atlassian.com/student/award/m48Mrzu7ZXr4Mt93WuzJwwXN)
 -  [Zendesk : Foundational Support](https://www.credly.com/badges/ffc2aa0c-4a03-48f7-a853-e263ef754b78)
-
-
-
-## 📚 EDUCATION
-
-#### Bachelor of Science in Information Technology (BSIT)
-Western Governors University, In Progress: Senior Year, Expected Graduation in December 2025
-
-#### Associate of Arts (AA)
-Seattle Central College, 2023
 
 
 
