@@ -10,7 +10,7 @@ I pair patient front-of-house support with solid planning, clean handoffs, and s
 I’m committed to growing and continuously learning through labs, coursework, and real projects; current certifications include PMP, CompTIA A+, ITIL 4 Foundation, AWS Cloud Practitioner, Microsoft 365 Fundamentals, and LPI Linux Essentials.
 
 
-
+##
 ## 📚 EDUCATION
 
 #### Bachelor of Science in Information Technology (BSIT)
@@ -20,7 +20,7 @@ Western Governors University, In Progress: Senior Year, Expected Graduation in D
 Seattle Central College, 2024
 
 
-
+##
 ## 📜 Certifications
 
 -  [Project Management Professional (PMP)](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)
@@ -31,14 +31,14 @@ Seattle Central College, 2024
 -  [Computer Science for Business Professionals, Harvard University CS50](https://certificates.cs50.io/954ec01c-cf18-486e-97a2-da8fba59bc1d)
 
 
-
+##
 ## ⭐ BADGES
 
 -  [Atlassian : Jira Service Management Fundamentals](https://university.atlassian.com/student/award/m48Mrzu7ZXr4Mt93WuzJwwXN)
 -  [Zendesk : Foundational Support](https://www.credly.com/badges/ffc2aa0c-4a03-48f7-a853-e263ef754b78)
 
 
-
+##
 ## 💼 PROJECTS
 
 ### 👨‍💻 Information Technology Projects
@@ -59,7 +59,7 @@ Seattle Central College, 2024
 - [Sizzle Reels + Pitches](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQsY7yVKzVfiCBKJRIhswc7H&pp=gAQB)
 
 
-
+##
 ## 🛠️ SKILLS
 
 - Project Management
@@ -69,13 +69,13 @@ Seattle Central College, 2024
 - Information Technology
 
 
-
+##
 ## ⚡ RESUMÉ / CV
 
 - [LinkedIn](https://www.linkedin.com/in/shaunjosephstewart/)
 
 
-
+##
 ## 🌐 PORTFOLIOS
 - [Website](http://shaunjosephstewart.com)
 - [Film + Video Reel](https://www.youtube.com/watch?v=k9BX95vbzd0)
