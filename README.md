@@ -47,7 +47,7 @@ Seattle Central College, 2024
 - [Add more projects here]
 
 ### 🎞  Film + Video Projects
-- * [Portfolio + Reel](http://shaunjosephstewart.com)
+- [Portfolio + Reel](http://shaunjosephstewart.com)
 - [HBO](https://www.youtube.com/watch?v=dFTJhFiY6iU&list=PL8-y-WpfGSQuVSNv4FS1icnheOWNRqKkn&pp=gAQB0gcJCaIEOCosWNin)
 - [National Geographic](https://www.youtube.com/watch?v=ppHBvpTHqs0&list=PL8-y-WpfGSQttqsbRhrcMD1iAU4x3uYYz&pp=gAQB0gcJCaIEOCosWNin)
 - [Sotheby's](https://www.youtube.com/watch?v=MfxGx9C8iu8&list=PL8-y-WpfGSQuuY657by64SuF-EmZtXHkD&pp=gAQB)
