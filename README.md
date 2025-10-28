@@ -14,10 +14,10 @@ I’m committed to growing and continuously learning through labs, coursework, a
 ## 📚 EDUCATION
 
 #### Bachelor of Science in Information Technology (BSIT)
-Western Governors University, In Progress: Senior Year, Expected Graduation in December 2025
+Western Governors University, In Progress: Senior Year, Expected Graduation in December 2026
 
 #### Associate of Arts (AA)
-Seattle Central College, 2023
+Seattle Central College, 2024
 
 
 
