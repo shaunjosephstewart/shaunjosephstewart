@@ -22,6 +22,13 @@ I’m committed to growing and continuously learning through labs, coursework, a
 
 
 
+## 📜 BADGES
+
+-  [Atlassian : Jira Service Management Fundamentals Badge ](https://university.atlassian.com/student/award/m48Mrzu7ZXr4Mt93WuzJwwXN)
+-  [Zendesk : Foundational Support](https://www.credly.com/badges/ffc2aa0c-4a03-48f7-a853-e263ef754b78)
+
+
+
 ## 📚 EDUCATION
 
 #### Bachelor of Science in Information Technology (BSIT)
