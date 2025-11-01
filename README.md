@@ -1,5 +1,5 @@
 # Shaun Joseph Stewart 
-### [Project Manager (PMP) | Producer | IT Professional](http://www.linkedin.com/in/shaunjosephstewart)
+### [Project Manager (PMP) | IT Professional](http://www.linkedin.com/in/shaunjosephstewart)
 
 Customer-centered IT specialist, producer, and PMP with Apple-trained customer care, production-tested project discipline, and hands-on experience supporting endpoints, accounts, and networks, plus a creative portfolio spanning documentaries, online fashion content, e-commerce, and experiential campaigns. 
 
@@ -44,9 +44,7 @@ Seattle Central College, 2024
 ## 💼 PROJECTS
 
 ### 👨‍💻 Information Technology Projects
-- [Project 1](#)
-- [Project 2](#)
-- [Add more projects here]
+- Coming Soon...
 
 ### 🎞  Film + Video Projects
 - [Portfolio + Reel](http://shaunjosephstewart.com)
