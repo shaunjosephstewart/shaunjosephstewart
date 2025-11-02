@@ -69,7 +69,7 @@ Coming Soon...
 ## 🛠️ SKILLS
 | Software & OS | Technical & Networking | Cloud | Programming | Project Management |
 |---|---|---|---|---|
-|• Windows<br>• OSx <br>• iOS <br>• Linux <br>• Microsoft 365<br>• Google Workspaces<br>• ServiceNow<br>• Jira<br>• WordPress|• Hardware troubleshooting<br>• Software troubleshooting<br>• Desktop setup<br>• Printer/Peripheral support<br>• LAN/WAN<br>• DHCP/DNS<br>• TCP/IP<br>• Monitoring<br>• Backup setup<br>• VPN<br>• Virtualization/Vmware|• Azure<br>• AWS|• HTML<br>• CSS<br>• JavaScript<br>• PHP<br>• SQL<br>• Python|• Project planning<br>• Task coordination<br>• Documentation<br>• Risk mitigation<br>• Team oversight<br>• Workflow optimization<br>• Cross-functional support<br>• Project life cycles|
+|• Windows<br>• OSx <br>• iOS <br>• Android <br>• Linux <br>• Microsoft 365<br>• Google Workspaces<br>• ServiceNow<br>• Jira<br>• WordPress|• Hardware troubleshooting<br>• Software troubleshooting<br>• Desktop setup<br>• Printer/Peripheral support<br>• LAN/WAN<br>• DHCP/DNS<br>• TCP/IP<br>• Monitoring<br>• Backup setup<br>• VPN<br>• Virtualization/Vmware|• Azure<br>• AWS|• HTML<br>• CSS<br>• JavaScript<br>• PHP<br>• SQL<br>• Python|• Project planning<br>• Task coordination<br>• Documentation<br>• Risk mitigation<br>• Team oversight<br>• Workflow optimization<br>• Cross-functional support<br>• Project life cycles|
 
 
 
