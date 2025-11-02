@@ -47,19 +47,7 @@ Seattle Central College, 2024
 
 ### 👨‍💻 Information Technology Labs
 
-#### Microsoft Azure
-- [Configuring On-premises Active Directory within Azure VMs](https://github.com/shaunjosephstewart/Azure-)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shaunjosephstewart/Azure-)
-- [Network File Shares and Permissions](https://github.com/shaunjosephstewart/Azure-)
-- [Building Intuition for DNS](https://github.com/shaunjosephstewart/Azure-)
-
-#### Active Directory
-- [Active Directory - Domain Controller Lab](https://github.com/shaunjosephstewart/Active-Directory-Domain-Controller)
-
-#### osTicket (Helpdesk Ticketing System)
-- [osTicket: Prerequisites and Installation](https://github.com/shaunjosephstewart/OS-Ticket)
-- [osTicket: Post-Installation Configuration](https://github.com/shaunjosephstewart/OS-Ticket)
-- [osTicket: Ticket Lifecycle Examples](https://github.com/shaunjosephstewart/OS-Ticket)
+Coming Soon...
 
 
 ### 🎞  Film + Video Projects
