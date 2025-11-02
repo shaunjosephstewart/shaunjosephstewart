@@ -67,12 +67,14 @@ Coming Soon...
 
 ##
 ## 🛠️ SKILLS
-
-- Project Management
+| Header 1 | Header 2 | Header 3 | Header 4 | Header 5 |
+| - Project Management
 - Production
 - Creative/Artistic Direction
 - Computer Science
-- Information Technology
+- Information Technology | Data Row 1 Col 2 | Data Row 1 Col 3 | Data Row 1 Col 4 | Data Row 1 Col 5 |
+
+
 
 
 ##
