@@ -56,7 +56,7 @@ Seattle Central College, 2024
 #### Active Directory
 - [Active Directory - Domain Controller Lab](https://github.com/shaunjosephstewart/Active-Directory-Domain-Controller)
 
-#### OS Ticket (Helpdesk Ticketing System)
+#### osTicket (Helpdesk Ticketing System)
 - [osTicket: Prerequisites and Installation](https://github.com/shaunjosephstewart/OS-Ticket)
 - [osTicket: Post-Installation Configuration](https://github.com/shaunjosephstewart/OS-Ticket)
 - [osTicket: Ticket Lifecycle Examples](https://github.com/shaunjosephstewart/OS-Ticket)
