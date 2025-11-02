@@ -67,10 +67,9 @@ Coming Soon...
 
 ##
 ## 🛠️ SKILLS
-| Software & OS | Technical & Networking | Project Management | Soft Skills | Cloud | Programming |
-|---|---|---|---|---|---|
-|• Windows<br>• OSx / iOS<br>• Microsoft 365<br>• ServiceNow<br>• Jira<br>• WordPress<br>• Linux|• Hardware troubleshooting<br>• Software troubleshooting<br>• Desktop setup<br>• Printer/Peripheral support<br>• LAN/WAN<br>• DHCP/DNS<br>• TCP/IP<br>• Monitoring<br>• Backup setup<br>• VPN<br>• Virtualization/Vmware|• Project planning<br>• Task coordination<br>• Documentation<br>• Risk mitigation<br>• Team oversight<br>• Workflow optimization<br>• Cross-functional support<br>• Project life cycles|• Clear communication<br>• Hands-on leadership<br>• Problem-solving<br>• Time management<br>• Adaptability<br>• Teamwork<br>• Customer service|• Azure<br>• AWS|• HTML<br>• CSS<br>• JavaScript<br>• PHP<br>• SQL<br>• Python|
-
+| Software & OS | Technical & Networking | Cloud | Programming | Project Management |
+|---|---|---|---|---|
+|• Windows<br>• OSx <br>•iOS <br>• Microsoft 365<br>• ServiceNow<br>• Jira<br>• WordPress<br>• Linux|• Hardware troubleshooting<br>• Software troubleshooting<br>• Desktop setup<br>• Printer/Peripheral support<br>• LAN/WAN<br>• DHCP/DNS<br>• TCP/IP<br>• Monitoring<br>• Backup setup<br>• VPN<br>• Virtualization/Vmware|• Azure<br>• AWS|• HTML<br>• CSS<br>• JavaScript<br>• PHP<br>• SQL<br>• Python|• Project planning<br>• Task coordination<br>• Documentation<br>• Risk mitigation<br>• Team oversight<br>• Workflow optimization<br>• Cross-functional support<br>• Project life cycles|
 
 
 
