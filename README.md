@@ -46,7 +46,11 @@ Seattle Central College, 2024
 ## 💼 PROJECTS
 
 ### 👨‍💻 Information Technology Projects
-- Coming Soon...
+
+#### 👨‍💻 Active Directory Labs
+- [Active Directory - Domain Controller Lab](https://github.com/shaunjosephstewart/Active-Directory-Domain-Controller)
+
+
 
 ### 🎞  Film + Video Projects
 - [Portfolio + Reel](http://shaunjosephstewart.com)
