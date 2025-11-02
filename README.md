@@ -21,8 +21,8 @@ Western Governors University, In Progress: Senior Year, Expected Graduation in D
 #### Associate of Arts (AA)
 Seattle Central College, 2024
 
-#### Harvard University Online CS50 (BSIT)
--  [Computer Science for Business Professionals CS50B, Certificate of Completion](https://certificates.cs50.io/954ec01c-cf18-486e-97a2-da8fba59bc1d)
+#### Additional Course Work
+-  [Harvard University Online, Computer Science for Business Professionals CS50B, Certificate of Completion](https://certificates.cs50.io/954ec01c-cf18-486e-97a2-da8fba59bc1d)
 
 
 ##
