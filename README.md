@@ -40,6 +40,8 @@ Seattle Central College, 2024
 
 -  [Atlassian : Jira Service Management Fundamentals](https://university.atlassian.com/student/award/m48Mrzu7ZXr4Mt93WuzJwwXN)
 -  [Zendesk : Foundational Support](https://www.credly.com/badges/ffc2aa0c-4a03-48f7-a853-e263ef754b78)
+-  [PMI: Generative AI Overview for Project Managers](https://www.credly.com/badges/08ba10af-4894-425f-88db-14e87ae10072)
+-  [PMI: Data Landscape of GenAI for Project Managers](https://www.credly.com/badges/f2af1f2d-6e96-4102-87f2-c0544b94e39a)
 
 
 ##
