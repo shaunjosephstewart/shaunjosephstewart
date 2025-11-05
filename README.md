@@ -3,7 +3,7 @@
 
 Customer-centered IT specialist, producer, and PMP with Apple-trained customer care, production-tested project discipline, and hands-on experience supporting endpoints, accounts, and networks, plus a creative portfolio spanning documentaries, online fashion content, e-commerce, and experiential campaigns. 
 
-I’ve contributed to the creative visions and digital operations of HBO, Sotheby’s, Google, Universal Music Group, Condé Nast, Yoox Net-A-Porter Group, Paper Magazine, the Hamptons International Film Festival, and several artists by blending creative strategy, practical IT know-how, and disciplined delivery on fast-moving projects. 
+I’ve contributed to the creative visions and digital operations handling projects for HBO, Sotheby’s, Google, Universal Music Group, Condé Nast, Yoox Net-A-Porter Group, Paper Magazine, the Hamptons International Film Festival, and several artists by blending creative strategy, practical IT know-how, and disciplined delivery on fast-moving projects. 
 
 I pair patient front-of-house support with solid planning, clean handoffs, and stakeholder alignment; in technical roles I’m known for accurate triage, calm troubleshooting, and plain-language updates that keep users and leaders aligned. I document fixes as clear step-by-step procedures to prevent repeat issues and reduce the average time it takes to resolve problems.
 
