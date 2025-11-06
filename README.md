@@ -27,7 +27,7 @@ Seattle Central College, 2024
 
 ##
 ## 📄 Certifications
-| <img width="1700" height="1700" alt="image" src="https://github.com/user-attachments/assets/c3db7afd-25b0-46ba-bdd1-07e273c77525" />
+| <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/c3db7afd-25b0-46ba-bdd1-07e273c77525" />
  | Image 2 | Image 3 | Image 4 | Image 5 | Image 6 |
 |---------|---------|---------|---------|---------|---------|
 | [Project Management Professional (PMP)](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)
