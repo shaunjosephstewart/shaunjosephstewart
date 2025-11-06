@@ -27,9 +27,8 @@ Seattle Central College, 2024
 
 ##
 ## 📄 Certifications
-| <a href="https://www.credly.com/earner/earned/badge/96b9bd60-9e60-40ba-950c-55433c63a4d0"><img width="100" height="100" alt="PMP" src="https://github.com/user-attachments/assets/c3db7afd-25b0-46ba-bdd1-07e273c77525" /></a><br>[Project Management Professional (PMP)](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)| <img width="100" height="100" alt="CompTIA A+" src="https://github.com/user-attachments/assets/40060076-221a-48ea-bd9b-b5ced7447ddd" /><br>-[CompTIA A+](https://www.credly.com/badges/cc51fc4b-cf2d-4d7b-8b79-a4f26e17b57f/linked_in_profile) | Image 3 | Image 4 | Image 5 | Image 6 |
+| <a href="https://www.credly.com/earner/earned/badge/96b9bd60-9e60-40ba-950c-55433c63a4d0"><img width="100" height="100" alt="PMP" src="https://github.com/user-attachments/assets/c3db7afd-25b0-46ba-bdd1-07e273c77525" /></a><br>[Project Management Professional (PMP)](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)| <a href="https://www.credly.com/badges/cc51fc4b-cf2d-4d7b-8b79-a4f26e17b57f/linked_in_profile"><img width="100" height="100" alt="CompTIA A+" src="https://github.com/user-attachments/assets/40060076-221a-48ea-bd9b-b5ced7447ddd" /></a><br>[CompTIA A+](https://www.credly.com/badges/cc51fc4b-cf2d-4d7b-8b79-a4f26e17b57f/linked_in_profile) | <a href="https://www.credly.com/badges/160256c3-c7ac-4ad5-accf-6de5ae7cf4d2/linked_in_profile"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/aa41cdeb-0d5f-4174-94fe-be3f8d2134b1" /></a><br>[AWS Certified Cloud Practitioner](https://www.credly.com/badges/160256c3-c7ac-4ad5-accf-6de5ae7cf4d2/linked_in_profile) | Image 4 | Image 5 | Image 6 |
 |---------|---------|---------|---------|---------|---------|
-|  | Cert 2  | Cert 3  | Cert 4  | Cert 5  | Cert 6  |
 
 -  [Project Management Professional (PMP)](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)
 -  [CompTIA A+](https://www.credly.com/badges/cc51fc4b-cf2d-4d7b-8b79-a4f26e17b57f/linked_in_profile)
