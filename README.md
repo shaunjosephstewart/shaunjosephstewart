@@ -27,9 +27,9 @@ Seattle Central College, 2024
 
 ##
 ## 📄 Certifications
-| <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/c3db7afd-25b0-46ba-bdd1-07e273c77525" /> | Image 2 | Image 3 | Image 4 | Image 5 | Image 6 |
+| <img width="100" height="100" alt="PMP" src="https://github.com/user-attachments/assets/c3db7afd-25b0-46ba-bdd1-07e273c77525" /> <br>[Project Management Professional (PMP)](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)| Image 2 | Image 3 | Image 4 | Image 5 | Image 6 |
 |---------|---------|---------|---------|---------|---------|
-| [Project Management Professional (PMP)](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url) | Cert 2  | Cert 3  | Cert 4  | Cert 5  | Cert 6  |
+|  | Cert 2  | Cert 3  | Cert 4  | Cert 5  | Cert 6  |
 
 -  [Project Management Professional (PMP)](https://www.credly.com/badges/96b9bd60-9e60-40ba-950c-55433c63a4d0/public_url)
 -  [CompTIA A+](https://www.credly.com/badges/cc51fc4b-cf2d-4d7b-8b79-a4f26e17b57f/linked_in_profile)
